@@ -30,8 +30,7 @@ O projeto visou a criação de um app a partir de tais tecnologias:
 - React-Native;
 - JavaScript;
 - TypeScript;
-- Styled-Components
-- Html;
+- Styled-Components;
 - Css;
 - React-native-maps;
 
