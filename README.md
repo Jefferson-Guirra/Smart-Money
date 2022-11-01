@@ -2,7 +2,7 @@
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
-<img src="assets/read-me1.jpg" alt="Smart Money">
+<img src="assets/read-me2.jpg" alt="Smart Money">
 
 > App criado para gereciamento de finanças.
 
