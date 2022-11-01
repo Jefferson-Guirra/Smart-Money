@@ -7,8 +7,10 @@
 <div>
 
 <br>
-  
-> App criado para gereciamento de finanças.
+  <p>
+    > App criado para gereciamento de finanças.
+  <p>
+
 
 <br>
 
