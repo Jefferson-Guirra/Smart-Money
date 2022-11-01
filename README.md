@@ -20,7 +20,7 @@ O app é composto por duas seções:
 ---
 <br>
 
-## 🚀  Funcionalidades
+## 🚀  Tecnologias
 
 O projeto visou a criação de um app a partir de tais tecnologias:
 
